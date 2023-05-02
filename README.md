@@ -102,7 +102,7 @@ Run npm start to start the application using webapp live server.
 
 ```
 
-This will open the app in your browser at http://localhost:8081/
+This will open the app in your browser at http://localhost:5174/
 
 ### Run tests
 
