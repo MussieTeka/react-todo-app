@@ -88,7 +88,7 @@ Clone this repository to your desired folder by running the following command:
 Run npm install to install all dependencies
 
 ```sh
-  cd To-Do-List
+  cd react-todo-app
   npm install
 
 ```
